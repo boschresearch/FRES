@@ -24,7 +24,7 @@ Relevant fields for each data instance:
 }
 ```
 
-Corresponding table images can be either obtained from [MMTAB](https://huggingface.co/datasets/SpursgoZmy/MMTab) (WTQ, TabFact, HiTab, TabMWP), converted from html provided by [TempTabQA](https://zenodo.org/records/10022927), or created using our provided scripts in `create_image.py` (CRT).
+Corresponding table images can be either obtained from [MMTAB](https://huggingface.co/datasets/SpursgoZmy/MMTab) (WTQ, TabFact, HiTab, TabMWP), converted from html provided by [TempTabQA](https://zenodo.org/records/10022927), or created using our provided scripts in `create_images.py` (CRT).
 
 ### Usages
 
